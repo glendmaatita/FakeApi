@@ -1,5 +1,5 @@
 {
 	"access_token": "validtokenhere",
 	"expired_token": "expiredtoken",
-	"valid_jwt": "validjwthere",
+	"valid_jwt": "validjwthere"
 }
