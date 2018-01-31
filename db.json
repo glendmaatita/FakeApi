@@ -1,3 +1,4 @@
 {
-  "token": { "access_token": "abcdefgh", "expired_token": "ijklmnop", "valid_jwt": "qrstuvwxyz" }
+  "token": { "access_token": "abcdefgh", "expired_token": "ijklmnop", "valid_jwt": "qrstuvwxyz" },
+  "refresh": { "access_token": "123456" }
 }
